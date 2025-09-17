@@ -1,4 +1,4 @@
-# 🧳 AI Travel Planner (Gen AI Project)
+# 🧳 Voyago
 
 The **AI Travel Planner** is a Generative AI-powered web application that creates **personalized travel itineraries**.  
 Users can provide a **destination, trip duration, and budget**, and the AI generates a **day-wise plan** including sightseeing, food, and accommodations.  
